@@ -5,7 +5,7 @@
   "keywords": [
     "framework",
     "arduino",
-    "espressif",
+    "espressif-test",
     "esp32"
   ],
   "license": "LGPL-2.1-or-later",
