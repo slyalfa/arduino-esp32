@@ -1,4 +1,4 @@
-name=ESP32 Arduino
+name=TWESP32 Arduino
 version=3.2.99
 
 tools.esp32-arduino-libs.path={runtime.platform.path}/tools/esp32-arduino-libs
